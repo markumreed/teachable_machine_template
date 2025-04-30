@@ -15,7 +15,7 @@ let video;
 // Variable for displaying the results on the canvas
 let label = "Model loading...";
 
-let imageModelURL = "https://teachablemachine.withgoogle.com/models/UvBGOUplA/";
+let imageModelURL = "https://teachablemachine.withgoogle.com/models/RkBl7skPc/";
 
 function preload() {
   ml5.setBackend('webgl');
